@@ -37,15 +37,15 @@
   "single-page-markdown-website": {
     "baseUrl": "https://fluteds.github.io/pegs",
     "title": "Phil's Early Gang Society",
-    "description": "Documentation for fellow Pegs!",
-    "faviconImage": "media/favicon.ico",
+    "description": "Useful Twitch information for fellow Pegs!",
+    "faviconImage": "media/favicon.svg",
     "links": [
       {
         "text": "GitHub",
         "url": "https://github.com/fluteds/pegs"
       }
     ],
-    "shareImage": null
+    "shareImage": "media/share.png"
   },
   "workspaces": [
     "packages/*"
