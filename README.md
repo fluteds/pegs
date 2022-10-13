@@ -18,13 +18,13 @@ Looking to catch up on past streams?
 
 ## Chatterino
 
-Want to chat more offline and online? Most of us use a handy chat client called **Chatterino** to chat with fellow Pegs online and offline. Note: You cannot gain points while watching a stream just in Chatterino/Streamlink you must have the Twitch chat in a browser open.
+Want to chat more offline and online? Most of us use a handy chat client called **Chatterino** to chat with fellow Pegs online and offline. *Note: You cannot gain points while watching a stream just in Chatterino/Streamlink you must have the Twitch chat in a browser open.*
 
 ### Features
 
 - Custom pings.
 - Chat highlights.
-- Chat filters, such as local sub mode. [Check out my filters here.](https://gist.github.com/fluteds/0569b49c78b0efacebc5d9121af52b50)
+- Chat filters, such as local sub mode. [(Check out my filters.)](https://gist.github.com/fluteds/0569b49c78b0efacebc5d9121af52b50)
 
 ### Setting Up Chatterino
 
@@ -48,7 +48,11 @@ Chatterino not working out for you? There are even more options out there.
 
 ## Emotes
 
-Wondering why we're all spamming `catKISS`? Better Twitch TV is a browser extension which enables you to see them! Head on over to [betterttv.com](https://betterttv.com) to find out more about installing so `catKISS` turns into ![catKISS](https://cdn.betterttv.net/emote/6084d90339b5010444d05c16/1x). So you have BTTV installed and still can't see some emotes like `widepeepoPhilza`? You can find even more emotes on 7tv over at [7tv.app](https://7tv.app) and now you can see ![widepeepoPhilza](https://cdn.7tv.app/emote/632b49fe61c6bb90cba4af37/1x.webp) in all its wide glory.
+Wondering why we're all spamming `catKISS`? Better Twitch TV is a browser extension which enables you to see them! Head on over to [betterttv.com](https://betterttv.com) to find out more about installing so `catKISS` turns into ![catKISS](https://cdn.betterttv.net/emote/6084d90339b5010444d05c16/1x) 
+
+So you have BTTV installed and still can't see some emotes like `widepeepoPhilza`? You can find and download another extension and even more emotes using 7tv over at [7tv.app.](https://7tv.app) Now you can see ![widepeepoPhilza](https://cdn.7tv.app/emote/632b49fe61c6bb90cba4af37/1x.webp) in all its wide glory.
+
+Chat commands: `!bttv` and `!7tv`
 
 ### Channel Emotes
 
@@ -94,6 +98,6 @@ Streamelements webpage containing stats about top chatters, emotes and more! [Li
 This website wouldn't have been possible thanks to the following resources. ![catKISS](https://cdn.betterttv.net/emote/5f455410b2efd65d77e8cb14/1x)
 
 - [Early Gang Helpful Links Doc](https://docs.google.com/document/d/11vclJ_Y3iEPQ9JVUsXhZjEeP2TMypP9aRAirz0QKTg4/edit) (If this website ever becomes inactive please refer back to this document!)
-- [Site Template](https://yuanqing.github.io/single-page-markdown-website/) 
-- [Channel Emotes (ph1lEarly & ph1lMcrow)](https://www.twitchemotes.com/channels/3389768)
-- [7tv Emotes (widepeepoPhilza, catKISS & BONK)](https://7tv.app/)
+- [Site Template](https://yuanqing.github.io/single-page-markdown-website/)
+- [Channel Emotes](https://www.twitchemotes.com/channels/3389768) (`ph1lEarly` & `ph1lMcrow`)
+- [7tv Emotes](https://7tv.app/) (`widepeepoPhilza`, `catKISS` & `BONK`)

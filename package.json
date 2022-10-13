@@ -2,6 +2,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "view": "npx --yes -- single-page-markdown-website '*.md' --open --watch",
     "build": "lerna run build --scope @single-page-markdown-website/frontend && lerna run build --scope single-page-markdown-website",
     "clean": "lerna run --parallel --stream clean && yarn run website-clean && rm -rf '*.log'",
     "docs": "markdown-interpolate README.md",
