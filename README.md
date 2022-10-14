@@ -61,7 +61,7 @@ The Philza emotes were created by [Glamist](https://twitter.com/Glamist_art) ![P
 All credits for 3rd party emotes are on the emote description on the following sites.
 
 - [Phil's BTTV Emotes](https://betterttv.com/users/587002e0c1869d57085734a8)
-- [Phil's 7tv Emotes](https://7tv.app/users/61cb278e12987d64d6aec4b6)
+- [Phil's 7TV Emotes](https://7tv.app/users/61cb278e12987d64d6aec4b6)
 
 ## Early Gang Commands
 
