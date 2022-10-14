@@ -4,7 +4,7 @@
 
 # Phil's Early Gang Society
 
-Also known as "Pegs!" Here you will find some useful resources for offline/online chat and useful tools that can improve your Twitch experience.
+Also known as "Pegs" or Early Gang. Here you will find some useful resources for offline/online chat and useful tools that can improve your Twitch experience.
 
 If you have any questions or want something taken off (or put on) whisper me on Twitch `@fluted`. If you have a hand in using GitHub or know how to do pull requests, this site is fully open sourced!
 
@@ -14,7 +14,7 @@ Looking to catch up on past streams?
 
 - `!vods` - Chat command that sends a link to our vod sheet! Made by Skyler.
 - [VOD Sheet](https://tinyurl.com/PhilzaVODList) - Community ran Google Doc that contains links, timestamps and summaries on past VODs. You can submit your own timestamps and summaries to be reviewed using the form link on the document.
-- [Unofficial VODs YouTube channel](https://www.youtube.com/channel/UCbbFwA30EUO2p2U1RCnwVTA) run by Mercy.
+- [Unofficial VODs YouTube channel](https://www.youtube.com/channel/UCbbFwA30EUO2p2U1RCnwVTA) run by Mercy and has 14k+ subscribers.
 
 ## Chatterino
 
@@ -40,11 +40,19 @@ There are lots of different versions of Chatterino for you to use, most of them 
 - [Chatterino7](https://github.com/SevenTV/chatterino7) - Normal Chatterino but adds 7tv emote support. Kept inline with normal Chatterino.
 - [Chatterino Pronouns](https://github.com/GabeEddyT/chatterino2) - The Pronoun version of Chatterino includes support for the Twitch Chat Pronouns extension created by [Alejo47](https://pronouns.alejo.io). *Note: Pronouns need to be toggled on in settings for them to show.*
 
-#### Other Chat Clients
+#### Other Desktop Chat Clients
 
 Chatterino not working out for you? There are even more options out there.
 
 - [Chatty](https://chatty.github.io/) - Chatty is a chat software specifically made for Twitch, in the spirit of a classic IRC Client.
+
+### Mobile Chatters
+
+Want to chat on the go? These apps are useful for mobile chatters. All of the following applications are open sourced! 🎉
+
+- [Chatsen (iOS and Android)](https://chatsen.app/) - Twitch chat application for iOS and Android with support for 7TV, BTTV and FFZ. Add up to 4500 channels, although I'm not sure why you'd want to. Not many people know Chatsen also has video livestream support. The app can be sideloaded onto iOS devices.
+- [Dankchat (Android Only)](https://dank.chat/) - Chat in multiple channels at once, regardless if the streamers are live or offline, with FrankerFaceZ, BTTV and 7TV emote support built-in.
+- [Frosty (iOS and Android)](https://frostyapp.io/) - Meant to be an alternative to the Twitch mobile app with browsing, vod watching, 7TV, BetterTTV (BTTV), and FrankerFaceZ (FFZ) support. 
 
 ## Emotes
 
@@ -80,6 +88,10 @@ A Google Doc list of Early Gang pronouns, managed by Skyler. You can find the li
 - [Fossabot Commands](https://fossabot.com/philza/commands)
 
 ## Other Spreadsheets and Data
+
+### Offline Chat Names
+
+Wonder why we mention `c_` or `innitfam` and want to know what they are? These are names for other MCYT's offline chats! Check out the full spreadsheet [here.](https://docs.google.com/spreadsheets/d/1ZT8IBLybmwe1RKCKNK7K7T4NfrV1OX_UZnx8BHXi1bM/edit)
 
 ### VOD Stats
 
