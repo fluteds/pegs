@@ -14,17 +14,20 @@ Looking to catch up on past streams?
 
 - `!vods` - Chat command that sends a link to our vod sheet! Made by Skyler.
 - [VOD Sheet](https://tinyurl.com/PhilzaVODList) - Community ran Google Doc that contains links, timestamps and summaries on past VODs. You can submit your own timestamps and summaries to be reviewed using the form link on the document.
-- [Unofficial VODs YouTube channel](https://www.youtube.com/channel/UCbbFwA30EUO2p2U1RCnwVTA) run by Mercy and has 14k+ subscribers.
+- [Unofficial VODs YouTube channel](https://www.youtube.com/channel/UCbbFwA30EUO2p2U1RCnwVTA) run by Mercy (14k+ subscribers.)
 
 ## Chatterino
 
-Want to chat more offline and online? Most of us use a handy chat client called **Chatterino** to chat with fellow Pegs online and offline. *Note: You cannot gain points while watching a stream just in Chatterino/Streamlink you must have the Twitch chat in a browser open.*
+Want to chat more offline and online? Most of us use a handy chat client called Chatterino to chat with fellow Pegs online and offline. *Note: You cannot gain points while watching a stream just in Chatterino/Streamlink you must have the Twitch chat in a browser open.*
 
 ### Features
 
 - Custom pings.
 - Chat highlights.
-- Chat filters, such as local sub mode. [(Check out my filters.)](https://gist.github.com/fluteds/0569b49c78b0efacebc5d9121af52b50)
+- Link previews
+- Inline image previews in chat.
+- Chat filters, such as local sub mode.
+- [Check out my filters to help you get started with them.](https://gist.github.com/fluteds/a97038a7ffa1beece30974ec8cca0291)
 
 ### Setting Up Chatterino
 
@@ -36,9 +39,9 @@ Link to the guide can be found [here.](https://docs.google.com/document/d/155OY6
 
 There are lots of different versions of Chatterino for you to use, most of them are based upon "vanilla", or "normal", Chatterino and have useful features that the normal version doesn't have!
 
-- [Dankerino](https://github.com/Mm2PL/dankerino) - Adds quality of life and features (or fixes) that aren't accepted into the upstream repo and keeps inline with development of the normal version.
-- [Chatterino7](https://github.com/SevenTV/chatterino7) - Normal Chatterino but adds 7tv emote support. Kept inline with normal Chatterino.
-- [Chatterino Pronouns](https://github.com/GabeEddyT/chatterino2) - The Pronoun version of Chatterino includes support for the Twitch Chat Pronouns extension created by [Alejo47](https://pronouns.alejo.io). *Note: Pronouns need to be toggled on in settings for them to show.*
+- [Dankerino](https://github.com/Mm2PL/dankerino) - Adds quality of life and features (or fixes) that aren't accepted into the upstream repo and keeps inline with development of the normal version. Dankerino also has 7TV badges support pulled from Chatterino7.
+- [Chatterino7](https://github.com/SevenTV/chatterino7) - Normal Chatterino but adds 7TV emote support. Kept inline with normal Chatterino.
+- [Chatterino Pronouns](https://github.com/GabeEddyT/chatterino2) - The Pronoun version of Chatterino includes support for the Twitch Chat Pronouns extension created by [Alejo47](https://pronouns.alejo.io). *Note: Pronouns need to be toggled on in settings for them to show and user pronouns are loaded for ALL users individually in ALL chats at once and is not reccomended for lower end PCs.*
 
 #### Other Desktop Chat Clients
 
@@ -48,15 +51,17 @@ Chatterino not working out for you? There are even more options out there.
 
 ### Mobile Chatters
 
-Want to chat on the go? These apps are useful for mobile chatters. All of the following applications are open sourced! 🎉
+Want to chat on the go? These apps are useful for mobile chatters. All of the following applications are open sourced and can be sideloaded or installed using an APK. 🎉
 
-- [Chatsen (iOS and Android)](https://chatsen.app/) - Twitch chat application for iOS and Android with support for 7TV, BTTV and FFZ. Add up to 4500 channels, although I'm not sure why you'd want to. Not many people know Chatsen also has video livestream support. The app can be sideloaded onto iOS devices.
+- [Chatsen (iOS and Android)](https://chatsen.app/) - Twitch chat application for iOS and Android with support for 7TV, BTTV and FFZ. Add up to 4500 channels, although I'm not sure why you'd want to. Not many people know Chatsen also has video livestream support. *
 - [Dankchat (Android Only)](https://dank.chat/) - Chat in multiple channels at once, regardless if the streamers are live or offline, with FrankerFaceZ, BTTV and 7TV emote support built-in.
-- [Frosty (iOS and Android)](https://frostyapp.io/) - Meant to be an alternative to the Twitch mobile app with browsing, vod watching, 7TV, BetterTTV (BTTV), and FrankerFaceZ (FFZ) support. 
+- [Frosty (iOS and Android)](https://frostyapp.io/) - Meant to be an alternative to the Twitch mobile app with browsing, vod watching, 7TV, BetterTTV (BTTV), and FrankerFaceZ (FFZ) support.
+
+**To enable subscriber perks in the livestream video viewer you will need to sign into Twitch.*
 
 ## Emotes
 
-Wondering why we're all spamming `catKISS`? Better Twitch TV is a browser extension which enables you to see them! Head on over to [betterttv.com](https://betterttv.com) to find out more about installing so `catKISS` turns into ![catKISS](https://cdn.betterttv.net/emote/6084d90339b5010444d05c16/1x) 
+Wondering why we're all spamming `catKISS`? Better Twitch TV is a browser extension which enables you to see them! Head on over to [betterttv.com](https://betterttv.com) to find out more about installing so `catKISS` turns into ![catKISS](https://cdn.betterttv.net/emote/6084d90339b5010444d05c16/1x) !
 
 So you have BTTV installed and still can't see some emotes like `widepeepoPhilza`? You can find and download another extension and even more emotes using 7tv over at [7tv.app.](https://7tv.app) Now you can see ![widepeepoPhilza](https://cdn.7tv.app/emote/632b49fe61c6bb90cba4af37/1x.webp) in all its wide glory.
 
@@ -64,12 +69,14 @@ Chat commands: `!bttv` and `!7tv`
 
 ### Channel Emotes
 
-The Philza emotes were created by [Glamist](https://twitter.com/Glamist_art) ![Ph1lEarly Emote](https://static-cdn.jtvnw.net/emoticons/v2/303887095/static/light/1.0) and the Mumza emotes (Ph1lM) were made by [TheElliPelli](https://twitter.com/TheElliPelli) ![Ph1lMcrow](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_fe1f2e7fd0f443dea05fd11a6423fec2/static/light/1.0) Check out their work over on Twitter.
+The Philza emotes were created by [Glamist](https://twitter.com/Glamist_art) ![Ph1lEarly Emote](https://static-cdn.jtvnw.net/emoticons/v2/303887095/static/light/1.0) and the Mumza emotes (`Ph1lM`) were made by [TheElliPelli](https://twitter.com/TheElliPelli) ![Ph1lMcrow](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_fe1f2e7fd0f443dea05fd11a6423fec2/static/light/1.0) Check out their work over on Twitter.
 
 All credits for 3rd party emotes are on the emote description on the following sites.
 
-- [Phil's BTTV Emotes](https://betterttv.com/users/587002e0c1869d57085734a8)
-- [Phil's 7TV Emotes](https://7tv.app/users/61cb278e12987d64d6aec4b6)
+- [Phil's BTTV Emotes.](https://betterttv.com/users/587002e0c1869d57085734a8)
+- [Phil's 7TV Emotes.](https://7tv.app/users/61cb278e12987d64d6aec4b6)
+
+For more (or cursed) emotes created by Early Gang and Onliners, [check out the `#philza` tag on 7tv.](https://7tv.app/emotes?page=1&query=philza) and on [BetterTTV.](https://betterttv.com/emotes/shared/search?query=philza.)
 
 ## Early Gang Commands
 
@@ -79,7 +86,7 @@ Find some suggested commands for chat [here!](https://docs.google.com/spreadshee
 
 ## Early Gang Pronouns
 
-A Google Doc list of Early Gang pronouns, managed by Skyler. You can find the link [here.](https://docs.google.com/document/d/1FaOotlbpACEoyPWcVbcxNf-V2vzZRp9qs8LJaZrNUZo/edit) *Note: this is an opt in document, if you wish to have your pronouns added, please read the instructions on the doc.*
+A Google Doc list of Early Gang pronouns, managed by Skyler. You can find the link [here.](https://docs.google.com/document/d/1FaOotlbpACEoyPWcVbcxNf-V2vzZRp9qs8LJaZrNUZo/edit) *Note: this is an opt in/out document, if you wish to have your pronouns added or updated, please read the instructions on the doc.*
 
 ## Fossabot Commands
 
@@ -87,29 +94,29 @@ A Google Doc list of Early Gang pronouns, managed by Skyler. You can find the li
 
 - [Fossabot Commands](https://fossabot.com/philza/commands)
 
-## Other Spreadsheets and Data
+## Other Spreadsheet and Resources
 
 ### Offline Chat Names
 
-Wonder why we mention `c_` or `innitfam` and want to know what they are? These are names for other MCYT's offline chats! Check out the full spreadsheet [here.](https://docs.google.com/spreadsheets/d/1ZT8IBLybmwe1RKCKNK7K7T4NfrV1OX_UZnx8BHXi1bM/edit)
+Wonder why we mention `c_` or `innitfam` and want to know what they are? These are names for other MCYT's offline chats! Check out the full names spreadsheet [here.](https://docs.google.com/spreadsheets/d/1ZT8IBLybmwe1RKCKNK7K7T4NfrV1OX_UZnx8BHXi1bM/edit)
 
 ### VOD Stats
 
-Spreadsheet hosted on Google Sheets containing all information about the stream stats. Including monthly stats and automated stream stats. [VOD Stats](https://docs.google.com/spreadsheets/d/1wjufR0zxklO1qY_iaGoHv78hUU6kgiw_Ca7hDrJNwzw/edit#gid=0)
+Spreadsheet containing all information about the stream stats. Including vod lengths, categories, monthly stats and stream stats. [Link to spreadsheet here.](https://docs.google.com/spreadsheets/d/1wjufR0zxklO1qY_iaGoHv78hUU6kgiw_Ca7hDrJNwzw/edit#gid=0)
 
 ### Open or Closed Popza Stats
 
-Spreadsheet about whether stream ended on an open or closed Popza emote. [Link.](https://docs.google.com/spreadsheets/d/1yyeF_fQdcbVkn0ZxC7gb-A-h1TpttqvbU7DtqYTsSiU/edit#gid=0)
+Spreadsheet about whether stream ended on an open or closed Popza emote. ![Ph1lPopza](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_bcc1c43a6fe943c5adc6a7cb9ac125ac/animated/light/1.0) [Link to spreadsheet here.](https://docs.google.com/spreadsheets/d/1yyeF_fQdcbVkn0ZxC7gb-A-h1TpttqvbU7DtqYTsSiU/edit#gid=0)
 
 ### Chat Stats
 
-Streamelements webpage containing stats about top chatters, emotes and more! [Link.](https://stats.streamelements.com/c/philza)
+Streamelements webpage containing stats about top chatters, emotes and more! [Link to website here.](https://stats.streamelements.com/c/philza)
 
 ## Credits
 
-This website wouldn't have been possible thanks to the following resources. ![catKISS](https://cdn.betterttv.net/emote/5f455410b2efd65d77e8cb14/1x)
+Check out the following resources. ![catKISS](https://cdn.betterttv.net/emote/5f455410b2efd65d77e8cb14/1x)
 
-- [Early Gang Helpful Links Doc](https://docs.google.com/document/d/11vclJ_Y3iEPQ9JVUsXhZjEeP2TMypP9aRAirz0QKTg4/edit) (If this website ever becomes inactive please refer back to this document!)
+- [Early Gang Helpful Links Doc](https://docs.google.com/document/d/11vclJ_Y3iEPQ9JVUsXhZjEeP2TMypP9aRAirz0QKTg4/edit) (If this website ever becomes inactive please refer back to this document! Maintained by Skyler.)
+- [Channel Emotes](https://www.twitchemotes.com/channels/3389768) (`ph1lEarly`, `ph1lPopza` & `ph1lMcrow`)
+- [7TV Emotes](https://7tv.app/) (`widepeepoPhilza`, `catKISS` & `BONK`)
 - [Site Template](https://yuanqing.github.io/single-page-markdown-website/)
-- [Channel Emotes](https://www.twitchemotes.com/channels/3389768) (`ph1lEarly` & `ph1lMcrow`)
-- [7tv Emotes](https://7tv.app/) (`widepeepoPhilza`, `catKISS` & `BONK`)

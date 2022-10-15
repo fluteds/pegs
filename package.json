@@ -14,7 +14,8 @@
     "version": "lerna version --force-publish",
     "website-build": "yarn run website-clean && yarn run build && yarn run docs && node packages/single-page-markdown-website/lib/cli.js README.md",
     "website-clean": "rm -rf build",
-    "website-deploy": "yarn run website-build && gh-pages --dist build"
+    "website-deploy": "yarn run website-build && gh-pages --dist build",
+    "deploy": "npx --yes -- gh-pages --dist build"
   },
   "devDependencies": {
     "lerna": "^4.0.0",
