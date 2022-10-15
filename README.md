@@ -94,7 +94,7 @@ A Google Doc list of Early Gang pronouns, managed by Skyler. You can find the li
 
 - [Fossabot Commands](https://fossabot.com/philza/commands)
 
-## Other Spreadsheet and Resources
+## Other Spreadsheets and Resources
 
 ### Offline Chat Names
 
