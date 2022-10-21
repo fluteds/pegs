@@ -12,8 +12,8 @@ If you have any questions or want something taken off (or put on) whisper me on 
 
 Looking to catch up on past streams?
 
-- `!vods` - Chat command that sends a link to our vod sheet! Made by Skyler.
-- [VOD Sheet](https://tinyurl.com/PhilzaVODList) - Community ran Google Doc that contains links, timestamps and summaries on past VODs. You can submit your own timestamps and summaries to be reviewed using the form link on the document.
+- `!vods` - Chat command that sends a link to our vod sheet!
+- [VOD Sheet](https://tinyurl.com/PhilzaVODList) - Community ran Google Doc that contains links, timestamps and summaries on past VODs. You can submit your own timestamps and summaries to be reviewed using the form link on the document. Made by Skyler and the Philza archive team.
 - [Unofficial VODs YouTube channel](https://www.youtube.com/channel/UCbbFwA30EUO2p2U1RCnwVTA) run by Mercy (14k+ subscribers.)
 
 ## Chatterino
@@ -35,12 +35,35 @@ Chatterino can be very overwhelming to use when you first download it. Skyler ma
 
 Link to the guide can be found [here.](https://docs.google.com/document/d/155OY6ndhY3Iy_4xo9Nf6fkRFgsWBrjjgqHGip4Vf4D0/edit)
 
+### Backing Up Settings
+
+My small simple Batch script for Windows users to backup their Chatterino settings to Google Drive and vice versa. I made it for myself but I think others could also use this. The source code can be found and read [here!](https://github.com/fluteds/batch/blob/main/command/misc/copy-chatterino-settings.cmd) *Note: Requires Google Drive for Desktop to use this script out of the box.*
+
+**Download**
+
+- To download the batch file go [here.](https://raw.githubusercontent.com/fluteds/batch/main/command/misc/copy-chatterino-settings.cmd) (GitHub)
+- Save via Right Clicking and selecting `Save Page As`.
+
+**Running**
+
+Out of the box the script assumes your Chatterino settings are saved at `C:\Users\%username%\appdata\roaming\chatterino2\settings\` and your Chatterino Google Drive backup is saved at `G:\My Drive\Chatterino\`. If you're tech savvy you can change the location variables (`drivePath` & `chatterinoPath`) in the script with Notepad.
+
+- Double click on the saved `bat` file.
+- Accept the Windows security pop up, this file is 100% safe. [You can double check here.](https://www.virustotal.com/gui/file-analysis/YmU2ZjA2ZGU0OTNlYjE1Njc2Y2E0MTliOWI3ZGMxMDA6MTY2NjM1ODEwMg==)
+- Follow the instructions on the terminal popup.
+
+<details>
+  <summary>GIF Preview of Script Running - Click to expand</summary>
+    <img src="media\chatterino-script-preview.gif" alt="Chatterino Script Preview Gif" />
+    <i>Note: The script when double clicked and not opened through the cmd line will automatically close after it runs without any errors. This example shows exactly what the script does without it automatically closing.</i>
+</details>
+
 ### Chatterino Forks
 
-There are lots of different versions of Chatterino for you to use, most of them are based upon "vanilla", or "normal", Chatterino and have useful features that the normal version doesn't have!
+There are lots of different versions of Chatterino for you to use, most of them are based upon the "nightly" version, kind of like a beta, which releases more often than major stable updates. Most of these forks use nightly as a foundation and have useful features that the normal stable version doesn't have.
 
-- [Dankerino](https://github.com/Mm2PL/dankerino) - Adds quality of life and features (or fixes) that aren't accepted into the upstream repo and keeps inline with development of the normal version. Dankerino also has 7TV badges support pulled from Chatterino7.
-- [Chatterino7](https://github.com/SevenTV/chatterino7) - Normal Chatterino but adds 7TV emote support. Kept inline with normal Chatterino.
+- [Dankerino](https://github.com/Mm2PL/dankerino) - Adds quality of life and features (or fixes) that aren't accepted into the upstream repo and keeps inline with development of the nightly version. Dankerino also has 7TV badges support pulled from Chatterino7.
+- [Chatterino7](https://github.com/SevenTV/chatterino7) - Chatterino but adds 7TV emote support. Kept inline with nightly Chatterino.
 - [Chatterino Pronouns](https://github.com/GabeEddyT/chatterino2) - The Pronoun version of Chatterino includes support for the Twitch Chat Pronouns extension created by [Alejo47](https://pronouns.alejo.io). *Note: Pronouns need to be toggled on in settings for them to show and user pronouns are loaded for ALL users individually in ALL chats at once and is not reccomended for lower end PCs.*
 
 #### Other Desktop Chat Clients
@@ -63,9 +86,7 @@ Want to chat on the go? These apps are useful for mobile chatters. All of the fo
 
 Wondering why we're all spamming `catKISS`? Better Twitch TV is a browser extension which enables you to see them! Head on over to [betterttv.com](https://betterttv.com) to find out more about installing so `catKISS` turns into ![catKISS](https://cdn.betterttv.net/emote/6084d90339b5010444d05c16/1x) !
 
-So you have BTTV installed and still can't see some emotes like `widepeepoPhilza`? You can find and download another extension and even more emotes using 7tv over at [7tv.app.](https://7tv.app) Now you can see ![widepeepoPhilza](https://cdn.7tv.app/emote/632b49fe61c6bb90cba4af37/1x.webp) in all its wide glory.
-
-Chat commands: `!bttv` and `!7tv`
+Chat commands: `!bttv`
 
 ### Channel Emotes
 
@@ -74,25 +95,24 @@ The Philza emotes were created by [Glamist](https://twitter.com/Glamist_art) ![P
 All credits for 3rd party emotes are on the emote description on the following sites.
 
 - [Phil's BTTV Emotes.](https://betterttv.com/users/587002e0c1869d57085734a8)
-- [Phil's 7TV Emotes.](https://7tv.app/users/61cb278e12987d64d6aec4b6)
 
-For more (or cursed) emotes created by Early Gang and Onliners, [check out the `#philza` tag on 7tv.](https://7tv.app/emotes?page=1&query=philza) and on [BetterTTV.](https://betterttv.com/emotes/shared/search?query=philza.)
+For more (or cursed) emotes created by Early Gang and Onliners, check out the `#philza` tag on [BetterTTV.](https://betterttv.com/emotes/shared/search?query=philza.)
 
-## Early Gang Commands
+## Commands
 
 Utilise Chatterino commands and make sending repated messages easier. E.g. typing `/energy` sends `༼ つ ◕_◕ ༽つ TAKE MY ENERGY ༼ つ ◕_◕ ༽つ` in chat.
 
 Find some suggested commands for chat [here!](https://docs.google.com/spreadsheets/d/1XFcyuSC74_OYiYEd4HdFrfWJlwt86dZEtqgrOkt6z6Y/edit#gid=0)
-
-## Early Gang Pronouns
-
-A Google Doc list of Early Gang pronouns, managed by Skyler. You can find the link [here.](https://docs.google.com/document/d/1FaOotlbpACEoyPWcVbcxNf-V2vzZRp9qs8LJaZrNUZo/edit) *Note: this is an opt in/out document, if you wish to have your pronouns added or updated, please read the instructions on the doc.*
 
 ## Fossabot Commands
 
 "Did you know? Philza has an Official Discord you can join for upda-" ![BONK](https://cdn.betterttv.net/emote/60158b3fdf6a0665f27579dc/1x) /j
 
 - [Fossabot Commands](https://fossabot.com/philza/commands)
+
+## Pronouns
+
+A Google Doc list of Early Gang pronouns, managed by Skyler. You can find the link [here.](https://docs.google.com/document/d/1FaOotlbpACEoyPWcVbcxNf-V2vzZRp9qs8LJaZrNUZo/edit) *Note: this is an opt in/out document, if you wish to have your pronouns added or updated, please read the instructions on the doc.*
 
 ## Other Spreadsheets and Resources
 
@@ -118,5 +138,7 @@ Check out the following resources. ![catKISS](https://cdn.betterttv.net/emote/5f
 
 - [Early Gang Helpful Links Doc](https://docs.google.com/document/d/11vclJ_Y3iEPQ9JVUsXhZjEeP2TMypP9aRAirz0QKTg4/edit) (If this website ever becomes inactive please refer back to this document! Maintained by Skyler.)
 - [Channel Emotes](https://www.twitchemotes.com/channels/3389768) (`ph1lEarly`, `ph1lPopza` & `ph1lMcrow`)
-- [7TV Emotes](https://7tv.app/) (`widepeepoPhilza`, `catKISS` & `BONK`)
+- [BTTV Emotes](https://betterttv.com/users/587002e0c1869d57085734a8) (`catKISS`, `BONK`)
+- [Philza Logo](https://ph1lzamerch.com/)
 - [Site Template](https://yuanqing.github.io/single-page-markdown-website/)
+- [Share Image](https://imgur.com/a/SVj22fn) (From Phil's Endlantis Album)
