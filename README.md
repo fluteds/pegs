@@ -46,6 +46,8 @@ My small simple Batch script for Windows users to backup their Chatterino settin
 
 **Running**
 
+![DinkDonk](media\emotes\DinkDonk-1x.gif) *Copy your settings folder to a safe place before running the script for the first time. Just incase anything goes wrong.*
+
 Out of the box the script assumes your Chatterino settings are saved at `C:\Users\%username%\appdata\roaming\chatterino2\settings\` and your Chatterino Google Drive backup is saved at `G:\My Drive\Chatterino\`. If you're tech savvy you can change the location variables (`drivePath` & `chatterinoPath`) in the script with Notepad.
 
 - Double click on the saved `bat` file.
@@ -84,7 +86,7 @@ Want to chat on the go? These apps are useful for mobile chatters. All of the fo
 
 ## Emotes
 
-Wondering why we're all spamming `catKISS`? Better Twitch TV is a browser extension which enables you to see them! Head on over to [betterttv.com](https://betterttv.com) to find out more about installing so `catKISS` turns into ![catKISS](https://cdn.betterttv.net/emote/6084d90339b5010444d05c16/1x) !
+Wondering why we're all spamming `catKISS`? Better Twitch TV is a browser extension which enables you to see them! Head on over to [betterttv.com](https://betterttv.com) to find out more about installing so `catKISS` turns into ![catKISS](media\emotes\catKISS-1x.gif) !
 
 Chat commands: `!bttv`
 
@@ -104,15 +106,15 @@ Utilise Chatterino commands and make sending repated messages easier. E.g. typin
 
 Find some suggested commands for chat [here!](https://docs.google.com/spreadsheets/d/1XFcyuSC74_OYiYEd4HdFrfWJlwt86dZEtqgrOkt6z6Y/edit#gid=0)
 
-## Fossabot Commands
+## Fossabot
 
-"Did you know? Philza has an Official Discord you can join for upda-" ![BONK](https://cdn.betterttv.net/emote/60158b3fdf6a0665f27579dc/1x) /j
+"Did you know? Philza has an Official Discord you can join for upda-" ![BONK](media\emotes\BONK-1x.gif) /j Fossabot is our chat moderation bot. You can view Fossa's commands below.
 
-- [Fossabot Commands](https://fossabot.com/philza/commands)
+- [Fossabot Chat Commands](https://fossabot.com/philza/commands)
 
 ## Pronouns
 
-A Google Doc list of Early Gang pronouns, managed by Skyler. You can find the link [here.](https://docs.google.com/document/d/1FaOotlbpACEoyPWcVbcxNf-V2vzZRp9qs8LJaZrNUZo/edit) *Note: this is an opt in/out document, if you wish to have your pronouns added or updated, please read the instructions on the doc.*
+A Google Doc list of Early Gang pronouns, managed by Skyler. You can find the link [here.](https://docs.google.com/document/d/1FaOotlbpACEoyPWcVbcxNf-V2vzZRp9qs8LJaZrNUZo/edit) *Note: this is an opt in/out document, if you wish to have your pronouns added or updated, please read the instructions on the document.*
 
 ## Other Spreadsheets and Resources
 
@@ -126,7 +128,9 @@ Spreadsheet containing all information about the stream stats. Including vod len
 
 ### Open or Closed Popza Stats
 
-Spreadsheet about whether stream ended on an open or closed Popza emote. ![Ph1lPopza](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_bcc1c43a6fe943c5adc6a7cb9ac125ac/animated/light/1.0) [Link to spreadsheet here.](https://docs.google.com/spreadsheets/d/1yyeF_fQdcbVkn0ZxC7gb-A-h1TpttqvbU7DtqYTsSiU/edit#gid=0)
+Spreadsheet about whether stream ended on an open or closed Popza emote. [Link to spreadsheet here.](https://docs.google.com/spreadsheets/d/1yyeF_fQdcbVkn0ZxC7gb-A-h1TpttqvbU7DtqYTsSiU/edit#gid=0)
+
+![ph1lPopza](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_bcc1c43a6fe943c5adc6a7cb9ac125ac/animated/light/1.0) `Hi vod watchers.` ![ph1lPopza](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_bcc1c43a6fe943c5adc6a7cb9ac125ac/animated/light/1.0)
 
 ### Chat Stats
 
@@ -138,7 +142,7 @@ Check out the following resources. ![catKISS](https://cdn.betterttv.net/emote/5f
 
 - [Early Gang Helpful Links Doc](https://docs.google.com/document/d/11vclJ_Y3iEPQ9JVUsXhZjEeP2TMypP9aRAirz0QKTg4/edit) (If this website ever becomes inactive please refer back to this document! Maintained by Skyler.)
 - [Channel Emotes](https://www.twitchemotes.com/channels/3389768) (`ph1lEarly`, `ph1lPopza` & `ph1lMcrow`)
-- [BTTV Emotes](https://betterttv.com/users/587002e0c1869d57085734a8) (`catKISS`, `BONK`)
+- [BTTV Emotes](https://betterttv.com/users/587002e0c1869d57085734a8) (`catKISS`, `BONK` & `DinkDonk`)
 - [Philza Logo](https://ph1lzamerch.com/)
 - [Site Template](https://yuanqing.github.io/single-page-markdown-website/)
 - [Share Image](https://imgur.com/a/SVj22fn) (From Phil's Endlantis Album)
