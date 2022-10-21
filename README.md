@@ -14,7 +14,7 @@ Looking to catch up on past streams?
 
 - `!vods` - Chat command that sends a link to our vod sheet!
 - [VOD Sheet](https://tinyurl.com/PhilzaVODList) - Community ran Google Doc that contains links, timestamps and summaries on past VODs. You can submit your own timestamps and summaries to be reviewed using the form link on the document. Made by Skyler and the Philza archive team.
-- [Unofficial VODs YouTube channel](https://www.youtube.com/channel/UCbbFwA30EUO2p2U1RCnwVTA) run by Mercy (14k+ subscribers.)
+- [Unofficial VODs YouTube channel](https://www.youtube.com/channel/UCbbFwA30EUO2p2U1RCnwVTA) run by Mercy (15k+ subscribers.)
 
 ## Chatterino
 
