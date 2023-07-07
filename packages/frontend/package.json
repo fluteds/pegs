@@ -42,7 +42,7 @@
     "eslint-config-yuanqing": "^0.0.6",
     "mkdirp": "^1.0.4",
     "prettier": "^2.4.1",
-    "stylelint": "^14.1.0",
+    "stylelint": "^15.10.1",
     "stylelint-config-yuanqing": "^0.0.3",
     "terser-webpack-plugin": "^5.2.5",
     "ts-loader": "^9.2.6",
