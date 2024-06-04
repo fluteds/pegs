@@ -4,9 +4,9 @@
 
 # Phil's Early Gang Society
 
-Also known as "Pegs" or Early Gang. Here you will find some useful resources for offline/online chat and useful tools that can improve your Twitch experience.
+Also known as PEGS or Early Gang. Here you will find some useful resources for offline/online chat and useful tools that can improve your Twitch experience.
 
-If you have any questions or want something taken off (or put on) whisper me on Twitch `@fluted` (`they/them`). If you have a hand in using GitHub or know how to do pull requests, this site is fully open sourced! 🛠️
+If you have any questions or want something taken off or put on whisper me on Twitch `@fluted`. If you have a hand in using GitHub or know how to do pull requests, this site is fully open sourced! This site is not affiliated with Philza directly or any streamers mentioned. Please use caution when clicking on external links.
 
 ## 📼 VODS
 
@@ -20,7 +20,7 @@ Looking to catch up on past streams?
 
 ### Chatterino
 
-Want to chat more offline and online? Most of us use a handy chat client called [Chatterino](https://chatterino.com/) to chat with fellow Pegs online and offline. *Note: You cannot gain points while watching a stream/being in chat just in Chatterino you must have the Twitch chat in a browser open.*
+Want to chat more offline and online? Most of us use a handy chat client called [Chatterino](https://chatterino.com/) to chat with fellow Pegs online and offline. *Note: You cannot gain points or interact with polls, channel point redeems or gambling points while watching a stream/being in chat using Chatterino you must have the Twitch chat in a browser open.*
 
 *Some* of the Many Features
 
@@ -37,9 +37,7 @@ Want to chat more offline and online? Most of us use a handy chat client called 
 
 #### Setting Up Chatterino
 
-Chatterino can be very overwhelming to use when you first download it. Skyler made a [very useful and helpful Google Doc](https://docs.google.com/document/d/155OY6ndhY3Iy_4xo9Nf6fkRFgsWBrjjgqHGip4Vf4D0/edit) explaining all the main features of Chatterino and how to set it up to how you want it. 
-
-Link to the guide can be found [here.](https://docs.google.com/document/d/155OY6ndhY3Iy_4xo9Nf6fkRFgsWBrjjgqHGip4Vf4D0/edit)
+Chatterino can be very overwhelming to use when you first download it. Skyler made a [very useful and helpful Google Doc](https://docs.google.com/document/d/155OY6ndhY3Iy_4xo9Nf6fkRFgsWBrjjgqHGip4Vf4D0/edit) explaining all the main features of Chatterino and how to set it up to how you want it. Link to the guide can be found [here.](https://docs.google.com/document/d/155OY6ndhY3Iy_4xo9Nf6fkRFgsWBrjjgqHGip4Vf4D0/edit)
 
 #### Backing Up Settings
 
@@ -63,12 +61,6 @@ Out of the box the script assumes your Chatterino settings are saved at `C:\User
 - Accept the Windows security pop up, this file is 100% safe. [You can double check here.](https://www.virustotal.com/gui/file-analysis/YmU2ZjA2ZGU0OTNlYjE1Njc2Y2E0MTliOWI3ZGMxMDA6MTY2NjM1ODEwMg==)
 - Follow the instructions on the terminal popup.
 
-<details>
-  <summary>GIF Preview of Script Running - Click to Expand</summary>
-    <img src="media\chatterino-script-preview.gif" alt="Chatterino Script Preview Gif" />
-    <i>Note: The script when double clicked and not opened through the cmd line will automatically close after it runs without any errors. This example shows exactly what the script does without it automatically closing.</i>
-</details>
-
 </details>
 
 ### Chatterino Forks
@@ -81,13 +73,12 @@ There are lots of different versions of Chatterino for you to use, most of them 
 
 **Other Desktop Chat Clients**
 
-Chatterino not working out for you? There are even more options out there.
-
 - [Chatty](https://chatty.github.io/) - Chatty is a chat software specifically made for Twitch, in the spirit of a classic IRC Client.
+- IRC Client - You can actually connect to Twitch via an IRC client such as HexChat or any IRC client. `irc.chat.twitch.tv/6697` For login method use `/PASS` protocol and use SSL for all servers on the network. [Auth token /PASS generator](https://twitchapps.com/tmi/).
 
 ## 📱 Mobile Chatters
 
-Want to chat on the go? These apps are useful for mobile chatters. All of the following applications are open sourced and can be sideloaded or installed using an APK. 🎉
+Want to chat on the go? These apps are useful for mobile chatters. All of the following applications are open sourced and can be sideloaded or installed using an APK.
 
 - [Chatsen (iOS and Android)](https://chatsen.app/) - Twitch chat application for iOS and Android with support for 7TV, BTTV and FFZ. Add up to 4500 channels. Not many people know Chatsen also has livestream support. *
 - [Dankchat (Android Only)](https://dank.chat/) - Chat in multiple channels at once, regardless if the streamers are live or offline, with FrankerFaceZ, BTTV and 7TV emote support built-in.
@@ -97,7 +88,7 @@ Want to chat on the go? These apps are useful for mobile chatters. All of the fo
 
 ## 🌐 Browser Chatters
 
-Useful tools if you only use the Twitch browser chat. Most of these extensions provide more than just more emotes and things for chatters. More information about emotes can be found in the section below!
+Useful tools if you only use the Twitch browser chat. Most of these extensions provide more than just more emotes and things for chatters. More information about emotes can be found in the section below.
 
 ### BetterTTV Extension
 
@@ -129,37 +120,33 @@ Features
 
 ## Emotes
 
-Wondering why we're all spamming `catKISS` or `philzaHug`? Better Twitch TV is a browser extension which enables you to see them! Head on over to [betterttv.com](https://betterttv.com) to find out more about installing so `catKISS` turns into ![catKISS](/media/emotes/catKISS-1x.gif) !
+Wondering why we're all spamming `catKISS` or `philzaHug`? Better Twitch TV is a browser extension which enables you to see them! Head on over to [betterttv.com](https://betterttv.com) to find out more about installing so `catKISS` turns into ![catKISS](/media/emotes/catKISS-1x.gif)
 
 Chat command: `!bttv`
 
 ### Channel Emotes
 
-The Philza emotes were created by [Glamist](https://twitter.com/Glamist_art) ![Ph1lEarly Emote](https://static-cdn.jtvnw.net/emoticons/v2/303887095/static/light/1.0) and the Mumza emotes (`Ph1lM`) were made by [TheElliPelli](https://twitter.com/TheElliPelli) ![Ph1lMcrow](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_fe1f2e7fd0f443dea05fd11a6423fec2/static/light/1.0) Check out their work over on Twitter.
+The Philza emotes were created by [Glamist](https://twitter.com/Glamist_art) ![Ph1lEarly Emote](https://static-cdn.jtvnw.net/emoticons/v2/303887095/static/light/1.0) and the Mumza emotes (`Ph1lM`) were made by [TheElliPelli](https://twitter.com/TheElliPelli) ![Ph1lMcrow](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_fe1f2e7fd0f443dea05fd11a6423fec2/static/light/1.0) Check out their work over on  X/Twitter.
 
-All credits for 3rd party emotes are found on the emote description [on the following site.](https://betterttv.com/users/587002e0c1869d57085734a8)
-
-For more (or cursed) emotes created by Early Gang and Onliners, check out the `#philza` tag on [BetterTTV.](https://betterttv.com/emotes/shared/search?query=philza)
+All credits for 3rd party emotes are found on the emote description [on the following site.](https://betterttv.com/users/587002e0c1869d57085734a8) For more emotes created by Early Gang and Onliners, check out the `#philza` tag on [BetterTTV.](https://betterttv.com/emotes/shared/search?query=philza)
 
 ## Commands
 
 ### Chatterino Commands
 
-Utilise Chatterino commands and make sending repated messages easier. E.g. typing `/energy` sends `༼ つ ◕_◕ ༽つ TAKE MY ENERGY ༼ つ ◕_◕ ༽つ` in chat.
-
-Find some suggested Chatterino commands for chat [here!](https://docs.google.com/spreadsheets/d/1XFcyuSC74_OYiYEd4HdFrfWJlwt86dZEtqgrOkt6z6Y/edit#gid=0)
+Utilise Chatterino commands and make sending repated messages easier. E.g. typing `/energy` sends `༼ つ ◕_◕ ༽つ TAKE MY ENERGY ༼ つ ◕_◕ ༽つ` in chat. Find some suggested Chatterino commands for chat [here.](https://docs.google.com/spreadsheets/d/1XFcyuSC74_OYiYEd4HdFrfWJlwt86dZEtqgrOkt6z6Y/edit#gid=0)
 
 ### Fossabot Commands
 
-"Did you know? Philza has an Official Discord you can join for upda-" ![BONK](/media/emotes/BONK-1x.gif) /j Fossabot is our chat moderation bot. You can view Fossa's commands below.
+"Did you know? Philza has an Official Discord you can join for upda-" Fossabot is our chat moderation bot. Some good commands to get you started: `!project`, `!vods`, `!s4` and `!mods` or check out [Fossabot's Full Chat Command List](https://fossabot.com/philza/commands).
 
-Some good commands to get you started: `!project`, `!vods`, `!s4` and `!mods` or check out [Fossabot's Full Chat Command List](https://fossabot.com/philza/commands).
+## Other Spreadsheets and Resources
 
-## Pronouns
+These are all run by other people in chat or other chat members. Like most things, please use caution clicking on external links in docs and spreadsheets.
+
+### Pronouns
 
 A Google Doc list of Early Gang pronouns, managed by Skyler. You can find the link [here.](https://docs.google.com/document/d/1FaOotlbpACEoyPWcVbcxNf-V2vzZRp9qs8LJaZrNUZo/edit) *Note: this is an opt in/out document, if you wish to have your pronouns added or updated, please read the instructions on the document.*
-
-## ℹ️ Other Spreadsheets and Resources
 
 ### Offline Chat Names
 
@@ -177,7 +164,7 @@ Spreadsheet about whether stream ended on an open or closed Popza emote. [Link t
 
 Streamelements webpage containing stats about top chatters, emotes and more! [Link to website here.](https://stats.streamelements.com/c/philza)
 
-## 🎖️ Credits
+## Credits
 
 Check out the following resources. ![catKISS](https://cdn.betterttv.net/emote/5f455410b2efd65d77e8cb14/1x)
 
